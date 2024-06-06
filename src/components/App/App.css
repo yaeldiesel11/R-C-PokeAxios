@@ -1,0 +1,20 @@
+body {
+  margin: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.contenedor-pokemon {
+  display: flex;
+}
+
+DetallePokemon,
+ul {
+  flex: 1;
+}
